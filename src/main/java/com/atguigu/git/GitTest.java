@@ -6,6 +6,6 @@ public class GitTest {
         System.out.println("sffdgf");
         System.out.println("ajkdsvnfd");
         System.out.println("adsvbd");
-        System.out.println("dsvdf");
+        System.out.println("master test");
     }
 }
